@@ -1,0 +1,40 @@
+run
+run 9001
+ru9001
+run 9001
+dir
+cd ..
+help play
+start 9001
+clean
+update
+compile
+sbt
+stage
+target
+start
+run
+test
+start
+run
+help maven
+publish-maven-style
+help play
+install
+sh install maven
+dependenc
+dependencies
+cd ..
+run
+help
+play
+run
+play help
+help
+play
+help
+help plaz
+help play
+publish-local
+compile
+package
